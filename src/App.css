@@ -36,3 +36,36 @@
     transform: rotate(360deg);
   }
 }
+
+.container{
+  background-color: rgb(255, 255, 255,.3);
+  padding: 20px;
+  box-shadow: 0 6px 10px rgba(55, 32, 32, 0.3);
+  width: 80%;
+  border-radius: 15px;
+  text-align: center;
+  color: darkgreen;
+}
+
+.heading{
+  font-size: 35px;
+  font-weight: 200;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.para{
+  font-size: 20px;
+  font-weight: 10;
+  font-family:fantasy
+}
+
+.btn{
+  background-color:cadetblue;
+  padding: 10px;
+  border-radius: 8px;
+  font-weight: 700px;
+  cursor: pointer;
+  text-transform: uppercase;
+  width: 200px;
+  
+}
+
